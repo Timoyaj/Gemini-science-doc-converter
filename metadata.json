@@ -1,0 +1,5 @@
+{
+  "name": "AI PDF to Docx extractor",
+  "description": "This app will help researchers convert research papers to editable format for each of reproducability",
+  "requestFramePermissions": []
+}
